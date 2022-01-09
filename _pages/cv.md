@@ -22,7 +22,17 @@ Work experience
   * Discrete Mathematics
   * Duties included: Grading, answering questions
   * Supervisor: Professor Daniel Gonzalez
-  
+
+Publications
+======
+* HG-Meta: Graph Meta-learning over Heterogeneous Graphs, SDM2022
+
+  qiannan zhang, *xiaodong wu*, qiang yang, chuxu zhang, xiangliang zhang
+
+Service and leadership
+======
+* Monitor of class 1 at Yingcai Honor College during undergraduate time at UESTC
+
 Skills
 ======
 * 
@@ -32,17 +42,17 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-* HG-Meta: Graph Meta-learning over Heterogeneous Graphs, SDM2022
-  qiannan zhang, *xiaodong wu*, qiang yang, chuxu zhang, xiangliang zhang
+Languages
+* Chinese (Mandarin) - Native Fluency
+* English - Fluent
+* Japanese - beginner
 
-Service and leadership
-======
-* Monitor of class 1 at Yingcai Honor College during undergraduate time at UESTC
+Travel History
+* Saudi Arabia
+* United Arab Emirates
 
 Hobbies
 ======
 * Badminton
-* Running
+* Travel
 * Swimming
