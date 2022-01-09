@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-Spring.
+* Spring 2022:Teaching Assistant
+  * University of Notre Dame
+  * Discrete Mathematics
+  * Duties included: Grading, answering questions
+  * Supervisor: Professor Daniel Gonzalez
   
 Skills
 ======
@@ -30,7 +34,7 @@ Skills
 
 Publications
 ======
-
+* HG-Meta: Graph Meta-learning over Heterogeneous Graphs, qiannan zhang, xiaodong wu, qiang yang, chuxu zhang, xiangliang zhang, SDM2022
 
   
 Service and leadership
