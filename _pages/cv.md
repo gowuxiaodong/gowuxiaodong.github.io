@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Spring 2022:Teaching Assistant
+* Spring 2022: Teaching Assistant
   * University of Notre Dame
   * Discrete Mathematics
   * Duties included: Grading, answering questions
@@ -34,9 +34,15 @@ Skills
 
 Publications
 ======
-* HG-Meta: Graph Meta-learning over Heterogeneous Graphs, qiannan zhang, xiaodong wu, qiang yang, chuxu zhang, xiangliang zhang, SDM2022
+* HG-Meta: Graph Meta-learning over Heterogeneous Graphs, SDM2022
+  qiannan zhang, *xiaodong wu*, qiang yang, chuxu zhang, xiangliang zhang
 
-  
 Service and leadership
 ======
 * Monitor of class 1 at Yingcai Honor College during undergraduate time at UESTC
+
+Hobbies
+======
+* Badminton
+* Running
+* Swimming
