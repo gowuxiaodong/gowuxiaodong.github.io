@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Xiaodong Wu (吴晓东) is currently a first-year PhD. student in Computer Science at the University of Notre Dame, supervised by Professor Xiangliang Zhang in 
-Machine Intelligence and kNowledge Engineering (MINE) lab. Currently, I am working on 
+Machine Intelligence and kNowledge Engineering (MINE) lab. My research focuses on poisoning attack which is a subclass of adversarial attack. The target of
+poisoning attack is to cause model to make mistakes by inserting crafted samples to the dataset. Study of poisoning attack are mostly in the image domain. Since the image pixel values are continuous, gradient based methods can be directly applied. However, in discrete domain  like  text tasks,  there  is  no  one-to-one  correspondence between gradients and data points. It becomes a combinational  optimization  problem  resulting  in  huge  search space. My work is trying to provide an effective and proficient search algorithm in discrete space to attack current models on discrete dataset so that they can become more robust to potential attacks
 
 News
 ======
