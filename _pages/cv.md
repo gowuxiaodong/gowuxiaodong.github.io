@@ -35,12 +35,9 @@ Service and leadership
 
 Skills
 ======
-* 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C, R, Matlab, Python (including some commonly used library like pytorch)
+* Leadership
+* Driving
 
 Languages
 * Chinese (Mandarin) - Native Fluency
