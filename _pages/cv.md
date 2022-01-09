@@ -25,9 +25,9 @@ Work experience
 
 Publications
 ======
-* HG-Meta: Graph Meta-learning over Heterogeneous Graphs, SDM2022
+* HG-Meta: Graph Meta-learning over Heterogeneous Graphs, SDM 2022
 
-  qiannan zhang, **xiaodong wu**, qiang yang, chuxu zhang, xiangliang zhang
+  Qiannan Zhang, **Xiaodong Wu**, Qiang Yang, Chuxu Zhang, Xiangliang Zhang
 
 Service and leadership
 ======
