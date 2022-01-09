@@ -40,11 +40,13 @@ Skills
 * Driving
 
 Languages
+======
 * Chinese (Mandarin) - Native Fluency
 * English - Fluent
 * Japanese - beginner
 
 Travel History
+======
 * Saudi Arabia
 * United Arab Emirates
 
