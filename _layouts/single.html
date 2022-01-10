@@ -56,8 +56,6 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-      
-      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9RhfZCGeBiTofr62DmxHpSeaXSaxd48loxgvrjtIRbU"></script>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
@@ -70,7 +68,9 @@ layout: default
 
       {% include post_pagination.html %}
     </div>
-
+    
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9RhfZCGeBiTofr62DmxHpSeaXSaxd48loxgvrjtIRbU"></script>
+    
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
